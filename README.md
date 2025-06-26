@@ -208,6 +208,7 @@ del release.txt
 
 - 📦 [Download NotArb](https://download.notarb.org)  
 - 📊 [Dune Dashboard](https://dune.notarb.org)
+- 📊 [Dune On-Chain Dashboard](https://dune.com/notarb/notarb-on-chain-dashboard)
 - 💬 [Discord Community](https://discord.notarb.org)  
 
 
